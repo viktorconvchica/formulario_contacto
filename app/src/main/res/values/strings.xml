@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">formulario contacto</string>
+    <string name="hintNombre">Nombre</string>
+    <string name="hintTelefono">Telefono</string>
+    <string name="hintEmail">E-mail</string>
+    <string name="hintDescripcion">Descripcion del contacto</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="tvConfirmacion">Confirmar datos</string>
+    <string name="tvFecha">Fecha de nacimiento: </string>
+    <string name="tvTelefono">Telefono: </string>
+    <string name="tvEmail">E-mail: </string>
+    <string name="tvDescripcion">Descripcion: </string>
+    <string name="btnEditar">Editar datos</string>
+
+</resources>
